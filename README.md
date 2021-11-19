@@ -8,4 +8,4 @@
 montanna245/montanna245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi all I'm very nee at this and would appreciate any help on implementing bots and writing codes for my WhatsApp groups 😉
+Hi all I'm very new at this and would appreciate any help on implementing bots and writing codes for my WhatsApp groups 😉
